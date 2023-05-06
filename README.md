@@ -1,0 +1,2 @@
+# clonerepo
+clone nasıl yapılır
